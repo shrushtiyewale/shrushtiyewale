@@ -526,3 +526,14 @@ UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 
 2025-08-04 11:42:12,356 - INFO -  All steps completed successfully.
 2025-08-04 11:42:12,356 - INFO -  Job ended at: 2025-08-04 11:42:12
 2025-08-04 11:42:12,356 - INFO - ==================================================
+2025-08-06 11:42:10,445 - INFO -  Job started at: 2025-08-06 11:42:10
+2025-08-06 11:42:10,470 - INFO - ===  Starting Full Scrapy \u2192 CSV \u2192 XLSX Job ===
+2025-08-06 11:42:10,498 - INFO -  Running: Scrapy Spider
+2025-08-06 11:42:35,705 - INFO -  Scrapy Spider completed successfully.
+2025-08-06 11:42:35,707 - INFO -  Running: JSON to CSV
+2025-08-06 11:42:36,247 - INFO -  JSON to CSV completed successfully.
+2025-08-06 11:42:36,248 - INFO -  Running: JSON to XLSX
+2025-08-06 11:42:53,155 - INFO -  JSON to XLSX completed successfully.
+2025-08-06 11:42:53,155 - INFO -  All steps completed successfully.
+2025-08-06 11:42:53,156 - INFO -  Job ended at: 2025-08-06 11:42:53
+2025-08-06 11:42:53,156 - INFO - ==================================================
