@@ -537,3 +537,25 @@ UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 
 2025-08-06 11:42:53,155 - INFO -  All steps completed successfully.
 2025-08-06 11:42:53,156 - INFO -  Job ended at: 2025-08-06 11:42:53
 2025-08-06 11:42:53,156 - INFO - ==================================================
+2025-08-12 11:42:09,114 - INFO -  Job started at: 2025-08-12 11:42:09
+2025-08-12 11:42:09,115 - INFO - ===  Starting Full Scrapy \u2192 CSV \u2192 XLSX Job ===
+2025-08-12 11:42:09,116 - INFO -  Running: Scrapy Spider
+2025-08-12 11:42:18,705 - INFO -  Scrapy Spider completed successfully.
+2025-08-12 11:42:18,705 - INFO -  Running: JSON to CSV
+2025-08-12 11:42:18,883 - INFO -  JSON to CSV completed successfully.
+2025-08-12 11:42:18,883 - INFO -  Running: JSON to XLSX
+2025-08-12 11:42:29,250 - INFO -  JSON to XLSX completed successfully.
+2025-08-12 11:42:29,250 - INFO -  All steps completed successfully.
+2025-08-12 11:42:29,251 - INFO -  Job ended at: 2025-08-12 11:42:29
+2025-08-12 11:42:29,251 - INFO - ==================================================
+2025-08-13 11:42:09,783 - INFO -  Job started at: 2025-08-13 11:42:09
+2025-08-13 11:42:09,784 - INFO - ===  Starting Full Scrapy \u2192 CSV \u2192 XLSX Job ===
+2025-08-13 11:42:09,785 - INFO -  Running: Scrapy Spider
+2025-08-13 11:42:18,725 - INFO -  Scrapy Spider completed successfully.
+2025-08-13 11:42:18,726 - INFO -  Running: JSON to CSV
+2025-08-13 11:42:18,994 - INFO -  JSON to CSV completed successfully.
+2025-08-13 11:42:18,994 - INFO -  Running: JSON to XLSX
+2025-08-13 11:42:26,662 - INFO -  JSON to XLSX completed successfully.
+2025-08-13 11:42:26,662 - INFO -  All steps completed successfully.
+2025-08-13 11:42:26,663 - INFO -  Job ended at: 2025-08-13 11:42:26
+2025-08-13 11:42:26,663 - INFO - ==================================================
